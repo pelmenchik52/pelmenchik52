@@ -1,10 +1,4 @@
-[profile-README.md](https://github.com/user-attachments/files/34205590/profile-README.md)
-## Hi there 👋
-
-<!--
-**pelmenchik52/pelmenchik52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:# Hi, I'm <Your name> 👋
+# Hi, I'm <Your name> 👋
 
 **3rd-year Software Engineering student at Lviv Polytechnic National University.**
 I build web, desktop and cross-platform applications with .NET, React and Flutter.
@@ -84,14 +78,3 @@ A small project using pipes and shared memory for communication between processe
 ## Let's connect
 
 I'm open to internships and junior roles in software development. Feel free to reach out by email or LinkedIn.
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
