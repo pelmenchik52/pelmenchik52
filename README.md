@@ -1,10 +1,10 @@
-# Hi, I'm <Your name> 👋
+# Hi, I'm Vladyslav Andreiev 👋
 
 **3rd-year Software Engineering student at Lviv Polytechnic National University.**
-I build web, desktop and cross-platform applications with .NET, React and Flutter.
+I build web, desktop and cross-platform applications with .NET, Vue.js and Flutter.
 
 🌐 **Portfolio website:** [pelmenchik52.github.io/MyPortfolio](https://pelmenchik52.github.io/MyPortfolio/)
-📫 **Contact:** <your-email> · [LinkedIn](<your-linkedin-url>)
+📫 **Contact:** vladzo16092006@gmail.com · [Telegram](@vladzoA) · [LinkedIn](https://www.linkedin.com/in/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2-%D0%B0%D0%BD%D0%B4%D1%80%D0%B5%D1%94%D0%B2-b6962b336?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
@@ -14,28 +14,28 @@ I build web, desktop and cross-platform applications with .NET, React and Flutte
 - 🏆 Took part in a spring hackathon, where my team built **LoTaS**, a warehouse management app (I worked as a backend developer and DevOps)
 - 🔧 Experienced in the full development cycle: requirements engineering, UML, SDLC, unit testing, Git
 - 🤖 I use AI tools (Claude, Gemini, ChatGPT, Grok) in my workflow
-- 🌱 Currently learning: <what you are learning now>
+- 🌱 Currently learning: ADO.NET, Flutter + Firebase, Entity Framework Core
 
 ---
 
 ## Featured projects
 
-### 📦 [LoTaS](<link-to-LoTaS-repo>) — Warehouse management system
+### 📦 [LoTaS](https://github.com/pelmenchik52/LoTaS) — Warehouse management system
 A team MVP for managing warehouses and receiving goods, built at a spring hackathon. Backend, database and frontend run together in Docker.
 **My role:** backend developer & DevOps
 **Stack:** `ASP.NET` `React` `Vite` `SQL` `Docker`
 
-### 🔎 [DocIndex](<link-to-DocIndex-repo>) — Document indexing and clustering
+### 🔎 [DocIndex](https://github.com/pelmenchik52/DocIndex.git) — Document indexing and clustering
 A WPF desktop app that indexes text documents, computes word weights (TF-IDF), finds the most similar documents and groups them with K-Means clustering. Built with MVVM and the Command, Singleton and Dependency Injection patterns.
 **Stack:** `C#` `.NET 8` `WPF` `MVVM`
 
-### 📱 [<Flutter project name>](<link-to-flutter-repo>) — Flutter + Firebase web app
+### 📱 [Home Pantry](https://github.com/pelmenchik52/pantry_app.git) — Flutter + Firebase web app
 A web app with Firebase Auth login and a complete interface. Persistent data storage is the next step. *(In progress)*
 **Stack:** `Flutter` `Firebase`
 
-### 🎅 [Secret Santa](<link-to-secret-santa-repo>) — Inter-process communication
-A small project using pipes and shared memory for communication between processes.
-**Stack:** `IPC` `Pipes` `Shared memory`
+### 🛡️ [RiskManager](https://github.com/pelmenchik52/RiskManager.git) — Risk manager on .NET
+A program for risk management, risk minimization, and loss reduction
+**Stack:** `C#` `.NET 8` `WPF`
 
 ---
 
